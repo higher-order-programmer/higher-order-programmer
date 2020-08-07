@@ -1,5 +1,3 @@
-![Screenshot from 2020-08-06 20-50-25](https://user-images.githubusercontent.com/24251894/89674413-77971f80-d8be-11ea-8e54-2c6c6e3304a3.png)
-
 <!--
 **cadu-tech/cadu-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Screenshot from 2020-08-07 15-05-28](https://user-images.githubusercontent.com/24251894/89675006-92b65f00-d8bf-11ea-8299-f458256e1d21.png)
+
+#### Biography
+
+I started programming in MS-DOS QBasic when I was 12 in 1996 and... that's it. :-)
+
+#### Inspiring quotes
+
+“Besides a mathematical inclination, an exceptionally good mastery of one's native tongue is the most vital asset of a competent programmer.” - Edsger Wybe Dijkstra
+
+"One of my most productive days was throwing away 1,000 lines of code." - Kenneth Thompson
