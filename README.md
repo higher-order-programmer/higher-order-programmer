@@ -1,4 +1,4 @@
-### Hi there 👋
+![Screenshot from 2020-08-06 20-50-25](https://user-images.githubusercontent.com/24251894/89674413-77971f80-d8be-11ea-8e54-2c6c6e3304a3.png)
 
 <!--
 **cadu-tech/cadu-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
