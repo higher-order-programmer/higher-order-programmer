@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I started programming in MS-DOS QBasic when I was 12 in 1996 and... that's it. :-)
 
-#### some of my favorites quotes
+#### Some of my favorites quotes
 
 “Besides a mathematical inclination, an exceptionally good mastery of one's native tongue is the most vital asset of a competent programmer.” - Edsger Wybe Dijkstra
 
