@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #### Biography
 
-I started programming in MS-DOS QBasic when I was 12 in 1996 and... that's it. :-)
+I started programming with QBasic on MS-DOS when I was 12 in 1996 and... that's it. :-)
 
 #### Some of my favorite quotes
 
