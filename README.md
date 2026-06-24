@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Screenshot from 2020-08-07 15-05-28](https://user-images.githubusercontent.com/24251894/89675006-92b65f00-d8bf-11ea-8299-f458256e1d21.png)
-
-#### Biography
-
-I started programming with QBasic on MS-DOS when I was 12 in 1996 and... that's it. :-)
+I enjoy engineering—putting the pieces of the puzzle together to see everything working. I like modeling real-world problems. That's me.
 
 #### Some of my favorite quotes
 
