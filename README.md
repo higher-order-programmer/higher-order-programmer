@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I enjoy engineering—putting the pieces of the puzzle together to see everything working. I like modeling real-world problems. That's me.
+I enjoy engineering, putting the pieces of the puzzle together and seeing everything work. I like modeling real-world problems. That's me.
 
 #### Some of my favorite quotes
 
